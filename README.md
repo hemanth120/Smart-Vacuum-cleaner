@@ -55,7 +55,7 @@ cd vacuum-cleaner-robot
 
 ---
 
-⚡ Upload Code to Arduino
+##⚡ Upload Code to Arduino
 1️⃣ Open the Arduino IDE
 2️⃣ Select the correct board & port
 3️⃣ Upload the code
@@ -78,8 +78,6 @@ cd vacuum-cleaner-robot
 🔹 Improve Battery Life – Extend runtime.
 🔹 Wi-Fi / Bluetooth Control – Add remote control option.
 
-
----
 
 
 ##🤝 Contribute
