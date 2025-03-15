@@ -44,7 +44,7 @@ This **Autonomous Vacuum Cleaner Robot** is designed to navigate around obstacle
 
 ## 🚀 Installation & Setup  
 1️⃣ **Clone the Repository:**  
-   ```bash
+
 
 
   git clone <your-repo-url>
@@ -77,5 +77,4 @@ cd vacuum-cleaner-robot
 🌟 Show Your Support
 ⭐ Star this repository if you found it useful!
 💬 Share your feedback in the issues section!
-
-
+       ```bash
