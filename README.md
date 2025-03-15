@@ -55,7 +55,7 @@ cd vacuum-cleaner-robot
 
 ---
 
-##⚡ Upload Code to Arduino
+## ⚡ Upload Code to Arduino
 1️⃣ Open the Arduino IDE
 2️⃣ Select the correct board & port
 3️⃣ Upload the code
@@ -64,15 +64,16 @@ cd vacuum-cleaner-robot
 ---
 
 
-##🔋 Power Up & Run
-🔹 Connect the power source
+## 🔋 Power Up & Run
+ 
+1️⃣ Connect the power source
 🔹 Watch it clean & avoid obstacles! 🎉
 
 
 ---
 
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 🔹 Increase Fan Power – Improve dust collection efficiency.
 🔹 Add Smart Mapping – Optimize movement to clean systematically.
 🔹 Improve Battery Life – Extend runtime.
@@ -80,13 +81,13 @@ cd vacuum-cleaner-robot
 
 
 
-##🤝 Contribute
+## 🤝 Contribute
 🛠️ Want to improve this project? Feel free to contribute!
 📩 Contact me at [your-email@example.com]
 
 ---
 
-##🌟 Show Your Support
+## 🌟 Show Your Support
 ⭐ Star this repository if you found it useful!
 💬 Share your feedback in the issues section!
        ```bash
