@@ -46,9 +46,9 @@ This **Autonomous Vacuum Cleaner Robot** is designed to navigate around obstacle
 1️⃣ **Clone the Repository:**  
 
 
-
-  git clone <your-repo-url>
-   cd vacuum-cleaner-robot🚀 Installation & Setup
+---
+## git clone <your-repo-url>
+cd vacuum-cleaner-robot🚀 Installation & Setup
 🛠️ Clone the Repository
 bash
 Copy
@@ -59,22 +59,22 @@ cd vacuum-cleaner-robot
 1️⃣ Open the Arduino IDE
 2️⃣ Select the correct board & port
 3️⃣ Upload the code
-
-🔋 Power Up & Run
+---
+##🔋 Power Up & Run
 🔹 Connect the power source
 🔹 Watch it clean & avoid obstacles! 🎉
-
-🔮 Future Enhancements
+---
+##🔮 Future Enhancements
 🔹 Increase Fan Power – Improve dust collection efficiency
 🔹 Add Smart Mapping – Optimize movement to clean systematically
 🔹 Improve Battery Life – Extend runtime
 🔹 Wi-Fi / Bluetooth Control – Add remote control option
-
-🤝 Contribute
+---
+##🤝 Contribute
 🛠️ Want to improve this project? Feel free to contribute!
 📩 Contact me at [your-email@example.com]
-
-🌟 Show Your Support
+---
+##🌟 Show Your Support
 ⭐ Star this repository if you found it useful!
 💬 Share your feedback in the issues section!
        ```bash
