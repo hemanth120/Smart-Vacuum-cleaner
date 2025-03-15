@@ -65,10 +65,10 @@ cd vacuum-cleaner-robot
 🔹 Watch it clean & avoid obstacles! 🎉
 ---
 ##🔮 Future Enhancements
-🔹 Increase Fan Power – Improve dust collection efficiency
-🔹 Add Smart Mapping – Optimize movement to clean systematically
-🔹 Improve Battery Life – Extend runtime
-🔹 Wi-Fi / Bluetooth Control – Add remote control option
+🔹 Increase Fan Power – Improve dust collection efficiency.
+🔹 Add Smart Mapping – Optimize movement to clean systematically.
+🔹 Improve Battery Life – Extend runtime.
+🔹 Wi-Fi / Bluetooth Control – Add remote control option.
 ---
 ##🤝 Contribute
 🛠️ Want to improve this project? Feel free to contribute!
