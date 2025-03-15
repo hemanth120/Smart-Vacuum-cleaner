@@ -82,8 +82,8 @@ cd vacuum-cleaner-robot
 
 
 ## 🤝 Contribute
-🛠️ Want to improve this project? Feel free to contribute!
-📩 Contact me at [your-email@example.com]
+# 🛠️ Want to improve this project? Feel free to contribute!
+# 📩 Contact me at [your-email@example.com]
 
 ---
 
